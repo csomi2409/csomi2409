@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bence Csomor</h1>
+<h1 align="center">Hi 👋, I'm csomi</h1>
 <h3 align="center">Become uncommon amongst the uncommon</h3>
 
 <p align="left"> <a href="https://twitter.com/csomor_bence" target="blank"><img src="https://img.shields.io/twitter/follow/csomor_bence?logo=twitter&style=for-the-badge" alt="csomor_bence" /></a> </p>
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **your mental state**
 
-- ⚡ Fun fact **Me.**
+- ⚡ Fun fact: **Me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
